@@ -1,14 +1,7 @@
-# VS Code / OSS
-.config/Code - OSS/
-.config/VSCodium/
-
-# Browsers
-.config/mozilla/
-.config/google-chrome/
-
-# Cache / junk
 .cache/
 *.log
 
-# Steam / app sessions
-.config/session/
+.config/Code - OSS/
+.config/mozilla/
+.config/google-chrome/
+.config/discord/
