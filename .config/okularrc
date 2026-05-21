@@ -1,0 +1,18 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[Recent Files]
+File1[$e]=$HOME/Documents/CSE/Programming/Head_First_Java_A_Brain-Friendly_Guide.pdf
+File2[$e]=$HOME/Documents/CSE/books/book_suggetions.txt
+File3[$e]=$HOME/Documents/CSE/ Programming Books /Head_First_Java_A_Brain-Friendly_Guide.pdf
+File4[$e]=$HOME/Documents/My_Tution/Class_10/Books/Secondary (BV)-2026_Class 9-10_Physics_compressed.pdf
+File5[$e]=$HOME/Downloads/dotfiles/cebem1nt/dotfiles/wallpapers/night_sunset_sky_blue_reflection_sun.jpg
+Name1[$e]=Head_First_Java_A_Brain-Friendly_Guide.pdf
+Name2[$e]=book_suggetions.txt
+Name3[$e]=Head_First_Java_A_Brain-Friendly_Guide.pdf
+Name4[$e]=Secondary (BV)-2026_Class 9-10_Physics_compressed.pdf
+Name5[$e]=night_sunset_sky_blue_reflection_sun.jpg

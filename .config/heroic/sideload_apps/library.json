@@ -1,0 +1,22 @@
+{
+	"games": [
+		{
+			"runner": "sideload",
+			"app_name": "naQNgPcXkcwUoZ8bHUgt9s",
+			"title": "Age of Empires II",
+			"install": {
+				"executable": "/home/ahdip/.local/share/Steam/steamapps/common/AoE2DE/AoE2DE_s.exe",
+				"platform": "Windows",
+				"is_dlc": false
+			},
+			"folder_name": "/home/ahdip/.local/share/Steam/steamapps/common/AoE2DE",
+			"art_cover": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/58b26e6eaeb6ed078b51e6cde7925d71.jpg",
+			"is_installed": true,
+			"art_square": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/58b26e6eaeb6ed078b51e6cde7925d71.jpg",
+			"canRunOffline": true,
+			"browserUrl": "",
+			"customUserAgent": "",
+			"launchFullScreen": false
+		}
+	]
+}

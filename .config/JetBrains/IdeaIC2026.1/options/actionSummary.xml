@@ -1,0 +1,169 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="4" l="1778952105287" />
+    </e>
+    <e n="$Delete">
+      <i c="4" l="1778938268358" />
+    </e>
+    <e n="$Paste">
+      <i c="1" l="1778936193405" />
+    </e>
+    <e n="$Undo">
+      <i c="48" l="1779040974863" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="1119" l="1779041401032" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="20" l="1779040819381" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="17" l="1779041355612" />
+    </e>
+    <e n="EditorCopy">
+      <i c="6" l="1779040923420" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="3" l="1778951420878" />
+    </e>
+    <e n="EditorDown">
+      <i c="30" l="1779039609460" />
+    </e>
+    <e n="EditorEnter">
+      <i c="141" l="1779041409672" />
+    </e>
+    <e n="EditorLeft">
+      <i c="13" l="1779039679427" />
+    </e>
+    <e n="EditorPaste">
+      <i c="19" l="1779040932463" />
+    </e>
+    <e n="EditorRight">
+      <i c="74" l="1779040190832" />
+    </e>
+    <e n="EditorTab">
+      <i c="1" l="1778951227687" />
+    </e>
+    <e n="EditorUp">
+      <i c="5" l="1778952359210" />
+    </e>
+    <e n="ExpandAllRegions">
+      <i c="21" l="1778936592167" />
+    </e>
+    <e n="ExpandLiveTemplateByTab">
+      <i c="1" l="1778953469846" />
+    </e>
+    <e n="ExpandRecursively">
+      <i c="4" l="1778936118877" />
+    </e>
+    <e n="ExpandRegion">
+      <i c="8" l="1778951420403" />
+    </e>
+    <e n="Floating.CodeToolbar.Extract">
+      <i c="1" l="1778936825090" />
+    </e>
+    <e n="Floating.CodeToolbar.Surround">
+      <i c="4" l="1778953226920" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="1" l="1778950466017" />
+    </e>
+    <e n="Images.SetBackgroundImage">
+      <i c="2" l="1778951631917" />
+    </e>
+    <e n="NewClass">
+      <i c="2" l="1778938272488" />
+    </e>
+    <e n="NewFile">
+      <i c="3" l="1778937607866" />
+    </e>
+    <e n="NewModuleInGroup">
+      <i c="1" l="1778937644427" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="1" l="1778951423600" />
+    </e>
+    <e n="ProjectViewExpandAll">
+      <i c="2" l="1778936119499" />
+    </e>
+    <e n="ReformatCode">
+      <i c="1" l="1778936593229" />
+    </e>
+    <e n="RenameElement">
+      <i c="5" l="1778938264559" />
+    </e>
+    <e n="Run">
+      <i c="4" l="1779041375101" />
+    </e>
+    <e n="SaveAll">
+      <i c="4" l="1779041418266" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="1" l="1778936652103" />
+    </e>
+    <e n="ShowSettings">
+      <i c="15" l="1778952046501" />
+    </e>
+    <e n="StatusBarWidgets.Toggle.CodeStyleStatusBarWidget">
+      <i c="1" l="1778951695701" />
+    </e>
+    <e n="StatusBarWidgets.Toggle.Encoding">
+      <i c="1" l="1778951696214" />
+    </e>
+    <e n="StatusBarWidgets.Toggle.IdeaVim-Icon">
+      <i c="1" l="1778951691334" />
+    </e>
+    <e n="StatusBarWidgets.Toggle.IdeaVimMacro">
+      <i c="1" l="1778951698670" />
+    </e>
+    <e n="StatusBarWidgets.Toggle.IdeaVimMode">
+      <i c="1" l="1778951694110" />
+    </e>
+    <e n="StatusBarWidgets.Toggle.LanguageServiceStatusBarWidget">
+      <i c="1" l="1778951697286" />
+    </e>
+    <e n="StatusBarWidgets.Toggle.LineSeparator">
+      <i c="1" l="1778951696734" />
+    </e>
+    <e n="StatusBarWidgets.Toggle.Position">
+      <i c="1" l="1778951698190" />
+    </e>
+    <e n="StatusBarWidgets.Toggle.ReadOnlyAttribute">
+      <i c="1" l="1778951695230" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1778936066827" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$SettingsActionGroup">
+      <i c="1" l="1778938689639" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$ShowDocAction">
+      <i c="1" l="1778938692400" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.UninstallAction">
+      <i c="1" l="1778951845457" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="658" l="1778951732765" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.impl.MoreActionGroup">
+      <i c="3" l="1778936824162" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="1" l="1779041059850" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$createAction$result$1">
+      <i c="4" l="1779041064275" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="9" l="1778951882922" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="18" l="1779041417263" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="7" l="1779041413832" />
+    </e>
+  </component>
+</application>

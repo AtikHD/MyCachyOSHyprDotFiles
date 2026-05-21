@@ -1,0 +1,33 @@
+[General]
+LastUsedVersion=210800
+SideBarPage=operations
+
+[MainWindow]
+MenuBar=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/dotfiles/shell-ninja/hyprconf/config/Wallpaper/sunset-horizon-mountain.jpg
+File10[$e]=$HOME/Downloads/dotfiles/shell-ninja/hyprconf/config/Wallpaper/24.jpg
+File2[$e]=$HOME/Downloads/dotfiles/shell-ninja/hyprconf/config/Wallpaper/venom.jpg
+File3[$e]=$HOME/Downloads/dotfiles/shell-ninja/hyprconf/config/Wallpaper/dark/dark_mountain.jpg
+File4[$e]=$HOME/Downloads/dotfiles/shell-ninja/hyprconf/config/Wallpaper/light/light_mountain.jpg
+File5[$e]=$HOME/Downloads/dotfiles/shell-ninja/hyprconf/config/Wallpaper/iron-man-marvel.jpg
+File6[$e]=$HOME/Downloads/dotfiles/shell-ninja/hyprconf/config/Wallpaper/ds4_purple.png
+File7[$e]=$HOME/Downloads/dotfiles/shell-ninja/hyprconf/config/Wallpaper/alita.png
+File8[$e]=$HOME/Downloads/dotfiles/shell-ninja/hyprconf/config/Wallpaper/28.jpg
+File9[$e]=$HOME/Downloads/dotfiles/shell-ninja/hyprconf/config/Wallpaper/18.jpg
+Name1[$e]=sunset-horizon-mountain.jpg
+Name10[$e]=24.jpg
+Name2[$e]=venom.jpg
+Name3[$e]=dark_mountain.jpg
+Name4[$e]=light_mountain.jpg
+Name5[$e]=iron-man-marvel.jpg
+Name6[$e]=ds4_purple.png
+Name7[$e]=alita.png
+Name8[$e]=28.jpg
+Name9[$e]=18.jpg
+
+[SideBar]
+InformationSplitterSizes=207,246
+IsVisible ViewMode=true
+SideBarSplitterSizes=206,723

@@ -1,0 +1,37 @@
+{
+  "naQNgPcXkcwUoZ8bHUgt9s": {
+    "autoInstallDxvk": true,
+    "autoInstallDxvkNvapi": true,
+    "autoInstallVkd3d": true,
+    "preferSystemLibs": false,
+    "enableEsync": true,
+    "enableMsync": false,
+    "enableFsync": true,
+    "enableWineWayland": false,
+    "enableHDR": false,
+    "enableWoW64": false,
+    "nvidiaPrime": false,
+    "enviromentOptions": [],
+    "wrapperOptions": [],
+    "showFps": false,
+    "useGameMode": false,
+    "battlEyeRuntime": true,
+    "eacRuntime": true,
+    "language": "",
+    "beforeLaunchScriptPath": "",
+    "afterLaunchScriptPath": "",
+    "verboseLogs": true,
+    "advertiseAvxForRosetta": false,
+    "enableQuickSavesMenu": false,
+    "wineVersion": {
+      "bin": "/usr/bin/wine",
+      "name": "wine-11.8",
+      "type": "wine",
+      "wineserver": "/usr/bin/wineserver"
+    },
+    "winePrefix": "/home/ahdip/Games/Heroic/Prefixes/Age of Empires II",
+    "wineCrossoverBottle": ""
+  },
+  "version": "v0",
+  "explicit": true
+}
