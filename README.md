@@ -15,4 +15,4 @@ Clean and minimal Hyprland setup.
 ```bash
 git clone https://github.com/AtikHD/MyCachyOSHyprDotFiles.git
 cd MyCachyOSHyprDotFiles
-./install.sh
+
